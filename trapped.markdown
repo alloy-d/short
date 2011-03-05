@@ -268,8 +268,8 @@ walk became a run and then a full sprint, and he finally collapsed,
 gasping, glaring at the tower that still loomed far off in the
 distance.
 
-"What am I supposed to do?" he panted. "I don't know!  I want to get
+"What am I supposed to do?" he panted. "I don't know! I want to get
 back, and then--I don't know!"
 
-His vision blurred. He could feel the frustration on his face, welling
-up in his eyes and running down his cheeks.
+His vision blurred. He felt the frustration on his face, welling up in
+his eyes and running down his cheeks.
