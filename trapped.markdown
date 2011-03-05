@@ -4,13 +4,12 @@ title: Trapped
 ---
 
 He awoke for the sixth time that night. This time, like every time
-before it, it seemed like his thoughts had masterfully chosen the
+before it, it seemed that his thoughts had masterfully chosen the
 worst moment to tear him from some sweet dream of her, to rip him from
-those lips and back into a reality that they were no longer a part of.
+those lips and back into the reality they were no longer a part of.
 
 The thoughts tore at him like wolves. He groaned and rolled over,
-hoping that his exhaustion would quickly overpower them and drive them
-away again.
+waiting for his exhaustion to overpower them again.
 
 "Oh, boy," said a voice, worry apparent in its tone.
 
