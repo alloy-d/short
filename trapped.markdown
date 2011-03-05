@@ -33,7 +33,7 @@ and the bed, the room was bare.
 He didn't know what to think. He hadn't been drunk. Miserable, sure;
 but he hadn't been drunk. He was sure he had fallen asleep in his own
 bed, because that's where he had been the last five times he had woken
-up in the middle of the--
+up in the middle of the---
 
 Night? He felt sure it shouldn't have been morning, even, and yet the
 light pouring into the room told him that the sun was high in the sky.
@@ -178,12 +178,12 @@ you that you look like you."
 He frowned. He certainly *felt* like he was getting nowhere, talking
 ottoman or not.
 
-"So, okay--where am I, then," he asked, hoping to find a bit of reason
+"So, okay---where am I, then," he asked, hoping to find a bit of reason
 *somewhere*.
 
 "On the wrong side. Didn't I say that once?"
 
-"But wha--"
+"But wha---"
 
 "Look, buddy, it's not that hard. In the daytime, you're awake and
 living your life in the real world. At night, you dream. But you can't
@@ -217,7 +217,7 @@ panic.
 "Beats me," the ottoman calmly replied. "I don't even know why you're
 here to begin with."
 
-"But what if she--" He paused, fire in his eyes. "I-- I have to get
+"But what if she---" He paused, fire in his eyes. "I--- I have to get
 back!"
 
 "Look, buddy, cool it. I don't know what to tell you. I mean, how did
@@ -237,7 +237,7 @@ it was just a fluke and I'll be on the right side when I wake up."
 "I dunno," the ottoman said doubtfully, "you've already woken up here
 twice. It seems like you're stuck."
 
-Right--he had forgotten. So that was no use.
+Right---he had forgotten. So that was no use.
 
 "This room. How do I get out of this room?" He glanced outside
 again. "And what's that red tower?"
@@ -269,7 +269,7 @@ gasping, glaring at the tower that still loomed far off in the
 distance.
 
 "What am I supposed to do?" he panted. "I don't know! I want to get
-back, and then--I don't know!"
+back, and then---I don't know!"
 
 His vision blurred. He felt the frustration on his face, welling up in
 his eyes and running down his cheeks.
