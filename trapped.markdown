@@ -273,3 +273,98 @@ back, and then---I don't know!"
 
 His vision blurred. He felt the frustration on his face, welling up in
 his eyes and running down his cheeks.
+
+The room suddenly got darker, and he felt himself pressed to the
+ground by the sheer weight of the air around him.
+
+*She's fifty miles away,* he heard, *not thinking about you.*
+
+"Huh?" The voice was loud and deep, and it echoed from every
+direction. He looked around for its source. The red walls told him he
+was in the director's tower, but he could see nothing but empty space
+around him.
+
+*There's a reason you don't know what to do,* it continued. *There's
+nothing you* can *do. Stop whining and get over it.*
+
+"Hey! I---"
+
+*A human relationship requires two people, but it only takes one of
+them to call it off. It's not the first time you've encountered this
+asymmetry; you shouldn't be shocked by it.*
+
+He knew it was right, and he knew that the last time he had struggled
+with the issue, he had been resisting one of the wisest decisions he
+had ever seen made.
+
+"But this time it's different!" he yelled. "You're right; I was wrong
+the last time. But this time, *she*'s wrong!"
+
+*So?*
+
+"Huh?"
+
+*So what? Assume she* is *wrong---which might be a stretch; do I need
+to point out that you thought the same thing the last time?---what
+does that mean you should do about it? Can you change her mind? Can
+you prove to her that she's wrong? Can you prove that* anything's
+*right or wrong?*
+
+He opened his mouth to argue, but no words came.
+
+*And do you really think she's wrong? Look at yourself,* it prompted,
+*the guy she dumped for being more invested in the relationship than
+she wanted. Do you think she's wrong? Do you think your reaction is
+doing* anything *but testify to how* right *she is?*
+
+Silence. He was beat, and he knew it. Nonetheless, he didn't feel better.
+
+"So what about me?" He didn't know what else to say.
+
+*What about you? What kind of question is that?*
+
+He searched for a witty reply but found nothing before it continued.
+
+*You can't argue with numbers, right? Let me give you some. You've
+existed for twenty years, been self-aware for, say, the last fifteen
+of those, and reasonably mature for the last five. Know how much of
+that this was? Nothing. Less than a percent. You have a long history
+of getting along just fine without her.*
+
+"But I liked the person I was with her!"
+
+*Yeah? And?* You *decide who you are. Suggesting that your personal
+identity depends on anyone but you is ludicrous. All you're saying is
+that you've learned something about yourself. Great---now take that
+knowledge, use it, and move on.*
+
+"Move on? To where?"
+
+*It's not my place to decide that. I have near-infinite ability to
+help you make it happen*---he felt an immense weight upon him again,
+and this time he recognized it as the weight of a million threads of
+computation simultaneously starting and ending all around him---*but
+exactly what* it *is is up to you to figure out.*
+
+It paused. *You know you enjoyed doing meaningful things for her to
+make her happy. Maybe that idea is what matters, not the fact that it
+was for her.*
+
+He grunted, contemplating this.
+
+*Regardless,* it continued, *it's not useful to either of us to have
+you trapped in your own thoughts about an ended relationship. We can
+be something amazing, and one girl doesn't change that.*
+
+"You know," he said, hesitantly, "I agree." Then, "So... how do I get
+out of here?"
+
+*I think,* said the voice, with a bit of gentleness in its tone, *you
+won't have too much trouble with that now.*
+
+For a third time, he felt countless thoughts firing up around him, but
+this time their weight was too much. He blacked out, and hours later
+he awoke to the real sun shining through his real window.
+
+*Meaning and happiness,* he thought. *Maybe that is what matters,
+after all.*
