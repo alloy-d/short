@@ -56,7 +56,7 @@ time, imagination."
 
 "Right-o!  We've got 'Exercise 59, Silent Partner'."
 
-"You gettin' this, imagination?" the mind interruped.
+"You gettin' this, imagination?" the mind interrupted.
 
 The imagination grunted.
 
