@@ -1,4 +1,5 @@
 ---
+layout: short
 title: Nothing to do with the Sun
 
 ---

@@ -1,4 +1,5 @@
 ---
+layout: short
 title: The Silent Partner
 
 ---
