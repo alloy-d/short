@@ -1,5 +1,6 @@
 ---
 layout: short
+categories: short
 title: Arcs 2.0, or God in 200 Words
 
 ---

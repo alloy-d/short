@@ -1,5 +1,6 @@
 ---
 layout: short
+categories: short
 title: Nothing to do with the Sun
 
 ---

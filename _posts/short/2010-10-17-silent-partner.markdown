@@ -1,5 +1,6 @@
 ---
 layout: short
+categories: short
 title: The Silent Partner
 
 ---
