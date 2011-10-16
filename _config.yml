@@ -4,4 +4,6 @@ server: true
 source: .
 destination: ./_site
 
+baseurl: /fiction
+
 permalink: /:categories/:title/
