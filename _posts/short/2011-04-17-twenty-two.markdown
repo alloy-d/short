@@ -1,6 +1,8 @@
 ---
-layout: story
+layout: short
+categories: short
 title: Twenty-Two
+
 ---
 
 Twenty-two tonight. Not the most interesting route to run, but at

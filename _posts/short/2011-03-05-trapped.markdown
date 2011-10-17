@@ -1,6 +1,8 @@
 ---
-layout: story
+layout: short
+categories: short
 title: Trapped
+
 ---
 
 He awoke for the sixth time that night. This time, like every time
