@@ -75,5 +75,5 @@ In the end, I took the stairs to the lower level and picked up the green line
 as usual. I've never again been to the station at the top of the world, but
 every time I get close to my transfer, I close my book and listen for the
 announcement a little earlier. And every time I exit onto the platform, I stare
-long and hard at the dark, empty horizon and wonder where I might have been if
+long and hard at the dark horizon and wonder where I might have been if
 I'd gotten off at that station for good.
