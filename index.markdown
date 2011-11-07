@@ -1,10 +1,10 @@
 ---
-title: Fiction by Adam Lloyd
+title: Short writing by Adam Lloyd
 layout: index
 
 ---
 
-## Things I've written
+## Short things I've written
 
 ### Short Stories
 {% for post in site.categories.story reversed %}
