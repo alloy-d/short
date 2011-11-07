@@ -1,10 +1,17 @@
 ---
-title: Things here
+title: Fiction by Adam Lloyd
+layout: index
 
 ---
 
-## This is a list.
+## Things I've written
 
-{%for post in site.posts reversed%}
+### Short Stories
+{% for post in site.categories.story reversed %}
  * [{{post.title}}]({{site.baseurl}}{{post.url}})&mdash;{{post.date|date_to_long_string}}
-{%endfor%}
+{% endfor %}
+
+### Poetry
+{% for post in site.categories.poetry reversed %}
+ * [{{post.title}}]({{site.baseurl}}{{post.url}})&mdash;{{post.date|date_to_long_string}}
+{% endfor %}
