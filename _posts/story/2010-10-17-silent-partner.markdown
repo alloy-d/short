@@ -2,6 +2,7 @@
 layout: story
 categories: story
 title: The Silent Partner
+date: 2010-10-17 17:30
 
 ---
 

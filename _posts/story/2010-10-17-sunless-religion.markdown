@@ -2,6 +2,7 @@
 layout: story
 categories: story
 title: Nothing to do with the Sun
+date: 2010-10-17 14:30
 
 ---
 
