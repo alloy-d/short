@@ -19,9 +19,9 @@ layout: nil
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>http://alloy-d.net/short{{ post.id }}</id>
     <content type="html">
-      {% if post.layout == 'poetry' %}<pre>{% endif %}
-      {{ post.content | xml_escape }}
-      {% if post.layout == 'poetry' %}</pre>{% endif %}
+      {% if post.layout == 'poetry' %}<html:pre>{% endif %}
+{{ post.content | xml_escape }}
+      {% if post.layout == 'poetry' %}</html:pre>{% endif %}
     </content>
     <author>
       <name>Adam Lloyd</name>
