@@ -7,3 +7,8 @@ syntax: glob
 **~
 
 _site
+.redo/
+css/.sass-cache/
+css/story.css
+css/index.css
+css/basic.css
