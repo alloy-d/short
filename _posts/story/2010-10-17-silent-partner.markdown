@@ -1,6 +1,6 @@
 ---
-layout: short
-categories: short
+layout: story
+categories: story
 title: The Silent Partner
 
 ---

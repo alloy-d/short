@@ -1,6 +1,6 @@
 ---
-layout: short
-categories: short
+layout: story
+categories: story
 title: Train Station at the Top of the World
 
 ---
