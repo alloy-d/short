@@ -11,6 +11,10 @@ body {
   margin: 0;
 }
 
+header, h1, h2, h3, h4, h5, h6 {
+  font-family: "Sorts Mill Goudy", serif;
+}
+
 article p {
   margin-bottom: 0;
 }
