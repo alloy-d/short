@@ -1,34 +1,17 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Adam Lloyd - "{{page.title}}"</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/basic.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/story.css" />
-    <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <article>
-      <header>
-        <h1>{{ page.title }}</h1>
-        <time datetime="{{page.date}}">{{page.date|date_to_long_string}}</time>
-      </header>
+---
+layout: base
+stylesheets: ['story']
+---
 
-      {% assign poetry = false %}
-      {% for category in post.categories %}
-        {% if category == 'poetry' %}
-          {% poetry = true %}
-        {% endif %}
-      {% endfor %}
+<article>
+  <header>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{page.date}}">{{page.date|date_to_long_string}}</time>
+  </header>
 
-      {% if poetry %}
-      <pre class="poetry">{{ content }}</pre>
-      {% else %}
-      {{ content }}
-      {% endif %}
-    </article>
-  </body>
-</html>
-  
+  {% if page.categories contains 'poetry' %}
+  <pre class="poetry">{{ content }}</pre>
+  {% else %}
+  {{ content }}
+  {% endif %}
+</article>

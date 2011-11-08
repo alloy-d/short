@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/basic.css" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/index.css" />
-    <link rel="alternate" type="application/atom+xml" title="Adam Lloyd's Short Writing - Atom" href="{{ site.baseurl }}/atom.xml" />
-    <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div id="table-of-contents">
-      {{ content }}
-    </div>
-  </body>
-</html>
-  
+---
+layout: base
+stylesheets: ['index']
+---
+
+<div id="table-of-contents">
+  {{ content }}
+</div>

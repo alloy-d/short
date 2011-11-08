@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/fonts.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/basic.css" />
+
+    {% for sheet in page.stylesheets %} 
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/{{ sheet }}.css" />
+    {% endfor %}
+
+    <link rel="alternate" type="application/atom+xml" title="Adam Lloyd's Short Writing - Atom" href="{{ site.baseurl }}/atom.xml" />
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
