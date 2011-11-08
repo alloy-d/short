@@ -16,7 +16,18 @@
         <time datetime="{{page.date}}">{{page.date|date_to_long_string}}</time>
       </header>
 
+      {% assign poetry = false %}
+      {% for category in post.categories %}
+        {% if category == 'poetry' %}
+          {% poetry = true %}
+        {% endif %}
+      {% endfor %}
+
+      {% if poetry %}
       <pre class="poetry">{{ content }}</pre>
+      {% else %}
+      {{ content }}
+      {% endif %}
     </article>
   </body>
 </html>
