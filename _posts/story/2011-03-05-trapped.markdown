@@ -1,5 +1,5 @@
 ---
-layout: story
+layout: short
 categories: story
 title: Trapped
 

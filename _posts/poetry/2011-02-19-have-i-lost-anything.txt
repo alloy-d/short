@@ -1,5 +1,5 @@
 ---
-layout: poetry
+layout: short
 categories: poetry
 title: Have I lost anything?
 ---
